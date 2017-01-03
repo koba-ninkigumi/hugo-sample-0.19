@@ -1,0 +1,3 @@
+languageCode = "ja"
+title = "My New Hugo Site"
+baseurl = "http://example.org/"

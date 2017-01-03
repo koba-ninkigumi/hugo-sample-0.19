@@ -1,0 +1,7 @@
+This is "_default/list.html" template
+
+{{- range .Data.Pages }}
+    {{- if eq .Type "index" }}
+        {{- .Content }}
+    {{- end }}
+{{- end }}

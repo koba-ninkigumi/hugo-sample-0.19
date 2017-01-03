@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>d/_index on My New Hugo Site</title>
+    <link>http://example.org/d/index.xml</link>
+    <description>Recent content in d/_index on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 15 Dec 2016 13:40:01 +0900</lastBuildDate>
+    <atom:link href="http://example.org/d/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>d</title>
+      <link>http://example.org/d/d/</link>
+      <pubDate>Thu, 15 Dec 2016 13:40:11 +0900</pubDate>
+      
+      <guid>http://example.org/d/d/</guid>
+      <description>
+
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;content/d/d.md&lt;/p&gt;
+
+&lt;h3 id=&#34;template&#34;&gt;Template&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;layout/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/_default/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>d/index</title>
+      <link>http://example.org/d/</link>
+      <pubDate>Thu, 15 Dec 2016 13:40:01 +0900</pubDate>
+      
+      <guid>http://example.org/d/</guid>
+      <description>
+
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;content/d/index.md&lt;/p&gt;
+
+&lt;h3 id=&#34;template&#34;&gt;Template&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;layout/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/_default/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;public&#34;&gt;Public&lt;/h3&gt;
+
+&lt;p&gt;public/d/index.html&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;content/d/index.md&lt;/li&gt;
+&lt;li&gt;content/d/_index.md&lt;/li&gt;
+&lt;li&gt;content/d.md&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>d/index.en</title>
+      <link>http://example.org/d/index.en/</link>
+      <pubDate>Thu, 15 Dec 2016 13:40:01 +0900</pubDate>
+      
+      <guid>http://example.org/d/index.en/</guid>
+      <description>
+
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;content/d/index.en.md&lt;/p&gt;
+
+&lt;h3 id=&#34;template&#34;&gt;Template&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;layout/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/_default/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>d/index.ja</title>
+      <link>http://example.org/d/index.ja/</link>
+      <pubDate>Thu, 15 Dec 2016 13:40:01 +0900</pubDate>
+      
+      <guid>http://example.org/d/index.ja/</guid>
+      <description>
+
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;content/d/index.ja.md&lt;/p&gt;
+
+&lt;h3 id=&#34;template&#34;&gt;Template&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;layout/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/_default/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/d/single.html&lt;/li&gt;
+&lt;li&gt;layout/theme/_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
